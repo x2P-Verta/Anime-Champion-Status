@@ -1,3 +1,4 @@
+# No Orb Enhancer / Normal Luck
 | Luck | Green Planet | Hero Academy | Ninja Village | Bizarre Bazzar | Demon Forest | Cursed City | Spirit Town | Land of Ants | Sawblade City | Land of Giants | Marine Fortness | Virtual Palace | New World A | New World B |
 |------|--------------|--------------|---------------|----------------|--------------|-------------|-------------|--------------|---------------|-----------------|------------------|-----------------|-------------|-------------|
 | 1    | 500,000      | 600,000      | 720,000       | 864,000        | 1,036,800    | 1,244,160   | 1,492,992   | 1,791,590    | 2,149,908     | 2,579,890       | 3,095,868        | 3,715,041       | 4,458,049   | 5,349,659   |
